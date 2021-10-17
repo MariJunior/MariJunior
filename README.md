@@ -2,6 +2,12 @@
 
 Я junior+ frontend-разработчик, но стараюсь не стоять на одном месте. Закончила университет по специальности и имею 1,5 года опыта коммерческой разработки. Люблю вёрстку (HTML+CSS+JS) с использованием css–препроцессоров, таких как Less и SASS, и шаблонизаторов (использую Pug). Умею делать сборки с помощью Gulp и Webpack. Также имею некоторый опыт в React и продолжаю его изучение.
 
+___
+#### Здесь будет накапливаться моя github-статистика
+
+[![Моя GitHub статистика](https://github-readme-stats.vercel.app/api?username=MariJunior&hide=stars,issues,contribs&count_private=true&show_icons=true&include_all_commits=true&layout=compact&theme=solarized-light)](https://github.com/MariJunior/github-readme-stats)
+[![Языки, используемые мной](https://github-readme-stats.vercel.app/api/top-langs/?username=MariJunior&layout=compact)](https://github.com/MariJunior/github-readme-stats)
+
 <!--
 **MariJunior/MariJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
