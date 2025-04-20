@@ -41,6 +41,8 @@ ___
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![MobX]()
+[![Three.js](https://img.shields.io/badge/Three.js-3D%20Graphics-black?style=flat-square&logo=three.js)](https://threejs.org/)
+[![Chart.js](https://img.shields.io/badge/Chart.js-Data%20Viz-FF6384?style=flat-square&logo=chart.js)](https://www.chartjs.org/)
 
 #### Инструменты:
 
@@ -76,4 +78,4 @@ ___
 
 [instagram]: https://www.instagram.com/mari_banana_k/
 [vk]: https://vk.com/mari_banana
-[telegram]: https://t.me/marina_klzhn
+[telegram]: https://t.me/meri_banana
