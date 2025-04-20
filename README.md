@@ -38,9 +38,10 @@ ___
 
 #### Изучаю:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![MobX]()
+[![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)](https://mobx.js.org/)
+
 [![Three.js](https://img.shields.io/badge/Three.js-3D%20Graphics-black?style=flat-square&logo=three.js)](https://threejs.org/)
 [![Chart.js](https://img.shields.io/badge/Chart.js-Data%20Viz-FF6384?style=flat-square&logo=chart.js)](https://www.chartjs.org/)
 
@@ -66,6 +67,12 @@ ___
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 ___
+### В работе активно использую AI для ускорения разработки
+  
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/)
+[![DeepSeek](https://img.shields.io/badge/DeepSeek-1e40af?style=for-the-badge&logo=deepseek&logoColor=white)](https://deepseek.com/)
+[![Cody AI](https://img.shields.io/badge/Cody_AI-7b34eb?style=for-the-badge&logo=sourcegraph&logoColor=white)](https://sourcegraph.com/cody)
+
 ### Здесь будет накапливаться моя github-статистика:
 
 [![Моя GitHub статистика](https://github-readme-stats.vercel.app/api?username=MariJunior&hide=stars,issues,contribs&count_private=true&show_icons=true&include_all_commits=true&layout=compact&theme=solarized-light)](https://github.com/MariJunior/github-readme-stats)
